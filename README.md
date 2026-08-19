@@ -11,11 +11,14 @@ I’m deeply focused on **Internship search and architecture, performance, clean
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://github.com/Walisonjos3">
-    <img src="https://img.shields.io/badge/GitHub-Walisonjos3-181717?style=for-the-badge&logo=github" />
+  <a href="https://discord.com/users/1002978267415990382">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://instagram.com/walisonjose3">
-    <img src="https://img.shields.io/badge/Instagram-@walisonjose3-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.linkedin.com/in/walison-jos%C3%A9-b741863bb/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:walisonjose129@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -37,17 +40,9 @@ I’m deeply focused on **Internship search and architecture, performance, clean
 
 ### DevOps & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Walisonjos3&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Walisonjose3&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
