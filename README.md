@@ -3,8 +3,7 @@
 🚀 **Systems Analysis and Development Student | Java & Python**  
 🇧🇷 Brazil
 
-I build **web applications, APIs, and personal projects**, applying **clean code, object-oriented programming, and software architecture practices**.  
-Currently seeking a **Software Development Internship** (Back-end or Full-Stack).
+I am focused on learning how to build **web applications and APIs**, practicing **clean code** and **object-oriented programming**. Currently deepening my understanding of **Java, Spring Boot, relational databases, and software architecture**, while looking for a ***Software Development Internship (Back-end or Full-Stack)**.
 
 ---
 
@@ -35,6 +34,7 @@ Currently seeking a **Software Development Internship** (Back-end or Full-Stack)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 ### Tools & Design
