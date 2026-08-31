@@ -3,7 +3,7 @@
 🚀 **Systems Analysis and Development Student | Java & Python**  
 🇧🇷 Brazil
 
-I am focused on learning how to build **web applications and APIs**, practicing **clean code** and **object-oriented programming**. Currently deepening my understanding of **Java, Spring Boot, relational databases, and software architecture**, while looking for a ***Software Development Internship (Back-end or Full-Stack)**.
+I am focused on learning how to build **web applications and APIs**, practicing **clean code** and **object-oriented programming**. Currently deepening my understanding of **Java, Spring Boot, relational databases, and software architecture**, while looking for a **Software Development Internship (Back-end or Full-Stack)**.
 
 ---
 
